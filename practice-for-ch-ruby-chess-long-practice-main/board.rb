@@ -17,5 +17,4 @@ class Board
 
     end
 
-    # testing
 end
